@@ -1,6 +1,10 @@
+# Flutter Web Projects Details
+
+This readme contains detailed screenshots of all the Flutter web projects that I've been part of across my Flutter development time. All these projects are built with the Flutter framework for the web. In total, this repo contains 4 projects. Listed below.
+
 ## 1. Purrfect Grooming
 
-Website and admin app  for pet grooming salon with appointment management system. 
+Website and admin app  for pet grooming salon with the appointment management system. 
 
 ![1 Purrfect](https://github.com/drocgoesongit/project_showcase/assets/82268112/f22dcd9d-46bb-42cf-a32e-e81b54347ec4)
 ![2 Purrfect](https://github.com/drocgoesongit/project_showcase/assets/82268112/b060d99a-99ca-4f70-95c0-dad455988c2c)
